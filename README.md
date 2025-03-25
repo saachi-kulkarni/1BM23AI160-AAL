@@ -15,3 +15,6 @@
 
 # Selection sort
 ![image](https://github.com/user-attachments/assets/c288a045-e22d-4403-b041-52c1e52e033b)
+
+# Quick sort
+![image](https://github.com/user-attachments/assets/0401c6cb-79a0-4e9c-9008-d2fd1cdbddbb)
