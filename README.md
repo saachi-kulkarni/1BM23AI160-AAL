@@ -30,3 +30,6 @@
 
 # Insertion Sort
 ![image](https://github.com/user-attachments/assets/623136ba-0284-4523-bbe6-65df5eec739d)
+
+# Dijkstra's Algorithm
+![image](https://github.com/user-attachments/assets/2c315a42-b2b0-40f8-a84f-2195cc7ba91e)
