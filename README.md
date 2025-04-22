@@ -21,3 +21,12 @@
 
 # Merge sort
 ![image](https://github.com/user-attachments/assets/82cce717-de44-4f0c-9d5c-89a93fb2f0a0)
+
+# Prim's Algorithm
+![image](https://github.com/user-attachments/assets/747f0d76-9df6-4d85-95fa-3cc92d1a8ed6)
+
+# Kruskal's Algorithm
+![image](https://github.com/user-attachments/assets/613de21c-4766-4827-b70e-568af95e7e9f)
+
+# Insertion Sort
+![image](https://github.com/user-attachments/assets/623136ba-0284-4523-bbe6-65df5eec739d)
