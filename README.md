@@ -36,3 +36,7 @@
 
 # Topological sort
 ![image](https://github.com/user-attachments/assets/b507ff79-5526-443a-aad1-010db758cbe8)
+
+# Heap Sort
+![image](https://github.com/user-attachments/assets/f16b0d5f-f1d5-4f3e-85db-ab5009c24e1f)
+
