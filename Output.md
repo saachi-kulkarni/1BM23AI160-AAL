@@ -43,6 +43,6 @@
 # N Queens problem
 ![image](https://github.com/user-attachments/assets/a66733e7-164c-4c79-af1b-5cd661b7afc4)
 
-
-
+# Travelling Salesman problem
+![image](https://github.com/user-attachments/assets/751a7e96-0233-4f21-a12d-cb7fd85499fd)
 
