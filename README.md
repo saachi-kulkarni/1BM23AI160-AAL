@@ -40,3 +40,9 @@
 # Heap Sort
 ![image](https://github.com/user-attachments/assets/f16b0d5f-f1d5-4f3e-85db-ab5009c24e1f)
 
+# N Queens problem
+![image](https://github.com/user-attachments/assets/a66733e7-164c-4c79-af1b-5cd661b7afc4)
+
+
+
+
